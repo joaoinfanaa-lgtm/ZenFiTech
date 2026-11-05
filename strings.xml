@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZenFi</string>
+    <!-- TROQUE pelo endereço do seu site publicado (precisa ser https) -->
+    <string name="zenfi_url" translatable="false">https://SEU-APP.onrender.com</string>
+</resources>
